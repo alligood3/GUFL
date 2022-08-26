@@ -11,7 +11,7 @@ export const homepageText = `
   <p>Where boys become men.</p>
   <p>Initially founded in 2019 as the KArtel Fantasy League, commissioner Trace has since expanded the league and migrated it to the Sleeper App.</p>
   <p>Navigate this site to find league matchups, league standings, and other important information about YOUR Grown Up Football League.</p>
-`;
+  ;
 
 /*   STEP 3   */
 /*
